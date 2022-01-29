@@ -4,7 +4,8 @@
 `When the button is clicked the color of the text displayed changes color.
 
 ### App Walk-though
-https://i.imgur.com/7l53r9A.gif
+
+<img src=https://i.imgur.com/7l53r9A.gif width=200><br>
 
 `
 
