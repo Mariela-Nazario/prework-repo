@@ -1,12 +1,9 @@
-# helloworld
 ## HelloWorld
 
 ### App Description
 `When the button is clicked the color of the text displayed changes color.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-https://imgur.com/a/TGxmmw1
 https://i.imgur.com/7l53r9A.gif
 
 `
