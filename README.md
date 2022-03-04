@@ -6,7 +6,8 @@
 ### App Walk-though
 
 <img src=https://i.imgur.com/7l53r9A.gif width=200><br>
-`<div style="width:100%;height:0;padding-bottom:207%;position:relative;"><iframe src="https://giphy.com/embed/tY7Y9Jav8djlYNpyyJ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/tY7Y9Jav8djlYNpyyJ">via GIPHY</a></p>
+<img src=https://giphy.com/embed/tY7Y9Jav8djlYNpyyJ width=200><br>
+       
 
 ### Required User Stories
 - [X ] 1. User sees custom text in a label - Hello from {name}!
